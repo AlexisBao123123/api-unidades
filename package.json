@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "build": "tsc -w",
-    "start": "node build/app.js",
-    "dev": "nodemon build/app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   
   },
   "keywords": [],
